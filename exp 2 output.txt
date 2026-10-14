@@ -1,0 +1,45 @@
+Enter number of employees: 3
+
+Enter details for employee 1
+ID: 1
+Name: divya
+Salary: 30000
+
+Enter details for employee 2
+ID: 2
+Name: bhagya
+Salary: 40000
+
+Enter details for employee 3
+ID: 3
+Name: yashoda
+Salary: 50000
+
+--- Employee Record Menu ---
+1. Display all employees
+2. Search employee by ID
+3.Exit
+Enter your choice: 1
+
+ID     Name                 Salary
+1      divya                30000.00
+2      bhagya               40000.00
+3      yashoda              50000.00
+
+--- Employee Record Menu ---
+1. Display all employees
+2. Search employee by ID
+3.Exit
+Enter your choice: 2
+Enter ID to search: 2
+Found: ID=2 Name=bhagya Salary=40000.00
+
+--- Employee Record Menu ---
+1. Display all employees
+2. Search employee by ID
+3.Exit
+Enter your choice: 3
+
+--------------------------------
+Process exited after 56.06 seconds with return value 0
+Press any key to continue 
